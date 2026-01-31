@@ -1,0 +1,59 @@
+
+
+.container{
+    text-align: center;
+    align-items: center;
+
+}
+
+.intro{
+    background-color:darkgray;
+    height: 700px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.intro img{
+    margin-top: 255px;
+    width: 500px;
+}
+
+h1{
+    font-size: 4rem;
+}
+
+
+.intro p{
+   font-size: 2.5rem;  
+}
+
+
+
+.myface{
+    border-radius: 100%;
+    margin-top: 100px;
+
+}
+
+.skills {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+}
+
+
+
+.profie p{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    unicode-bidi: isolate;  
+
+}                                
